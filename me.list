@@ -7,4 +7,5 @@
 # DOMAIN-SUFFIX: 4
 # IP-CIDR: 11
 # TOTAL: 1
-DOMAIN-SUFFIX,myds.me
+DOMAIN-SUFFIX,baidu.myds.me
+DOMAIN-SUFFIX,pdd.myds.me
