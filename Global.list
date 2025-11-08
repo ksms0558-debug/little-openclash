@@ -1739,7 +1739,6 @@ DOMAIN-SUFFIX,appbrain.com
 DOMAIN-SUFFIX,appbridge.ca
 DOMAIN-SUFFIX,appbridge.io
 DOMAIN-SUFFIX,appbridge.it
-DOMAIN-SUFFIX,appcenter.ms
 DOMAIN-SUFFIX,appcloud.com
 DOMAIN-SUFFIX,appdomain.cloud
 DOMAIN-SUFFIX,appdynamics.co.uk
@@ -29318,7 +29317,6 @@ DOMAIN-SUFFIX,mysinablog.com
 DOMAIN-SUFFIX,myspace.com
 DOMAIN-SUFFIX,myspacecdn.com
 DOMAIN-SUFFIX,mytalkbox.com
-DOMAIN-SUFFIX,myteamspeak.com
 DOMAIN-SUFFIX,mytizi.com
 DOMAIN-SUFFIX,mywife.cc
 DOMAIN-SUFFIX,mywww.biz
@@ -32274,4 +32272,5 @@ IP-CIDR6,2001:67c:4e8::/48,no-resolve
 IP-CIDR6,2001:b28:f23c::/47,no-resolve
 IP-CIDR6,2001:b28:f23f::/48,no-resolve
 IP-CIDR6,2a0a:f280::/32,no-resolve
+
 PROCESS-NAME,LookupViewService
